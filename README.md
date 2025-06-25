@@ -72,9 +72,9 @@ Face recognition is powerful, but without liveness detection, it’s vulnerable 
 ## 📸 Demo    https://youtu.be/q5oJCUSrBRI
 
 [![Watch Demo](https://img.youtube.com/vi/q5oJCUSrBRI/hqdefault.jpg)](https://youtu.be/q5oJCUSrBRI)
-Google Colab link-https://colab.research.google.com/drive/1su-7zMWxau5vsfjETHLBeT-_7l9WFYXo?usp=sharing
 > 👆 Click the thumbnail to see the liveness detection model in action!  
 
+Google Colab link-https://colab.research.google.com/drive/1su-7zMWxau5vsfjETHLBeT-_7l9WFYXo?usp=sharing
 
 ---
 
